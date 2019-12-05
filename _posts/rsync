@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll搭建个人博客(二)
+title: 1212(二)
 date: 2017-09-05
 tags: 分布式
 ---
@@ -135,3 +135,9 @@ chmod  +x  rsync_inotify.sh
 sh rsync_inotify.sh &	 ##启动脚本
 以上软件包下载地址
 链接:https://pan.baidu.com/s/1Ytnqyqt_frW5FGHu-onDZQ 密码:9fdj
+
+Reveal的功能相对来说更强大 , 适用于UI调试视图查找 。使用方法请看 [Reveal集成指南
+](http://support.revealapp.com/kb/getting-started/reveal) 。
+
+
+<br>
