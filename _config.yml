@@ -19,8 +19,8 @@ social:
     weibo: 5366874726 
     #github: lisir1010
     # zhihu: panpanleopard
-    # juejin: xxx
-    #jianshu: 2ada30d8d0f7
+    #juejin: xxx
+    jianshu: 2ada30d8d0f7
     # twitter: 
     mail: lisir1010@163.com
 
@@ -28,7 +28,7 @@ social:
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: 045efe84857247a069aa92346ecbd066  
+    id: 96377f37d8f9a11cce937a6d289a19d6  
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
