@@ -76,5 +76,5 @@ css 的大部分语法同样可以在 markdown 上使用，但不同的渲染器
 
 <br>
 
-转载请注明：[潘柏信的博客](http://baixin) » [Markdown工具集](http://baixin.io/2016/11/markdownTool/)                   
+转载请注明：[李瑞祥的博客](blog.lisirlinux.cn) » [Markdown工具集](https://blog.lisirlinux.cn/2016/11/markdownTool/)                   
 
