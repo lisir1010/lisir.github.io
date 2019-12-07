@@ -99,3 +99,5 @@ $ sudo systemctl start docker
 >另外一种安装方式是可以直接下载指定的软件包直接安装即可，前往地址：[](https://download.docker.com/linux/centos/7/x86_64/stable/Packages/) 找到合适的.rpm包下载，然后安装即可：
 
 * $ sudo yum install /path/to/package.rpm
+<br>
+转载请注明： [李瑞祥博客](blog.lisirlinux.cn) » [点击查看原文](https://blog.lisirlinux.cn/2019/12/docker01/)
